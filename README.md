@@ -4,12 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.![Forget Password screen](https://github.com/user-attachments/assets/7e82fe7a-8568-41d5-8d94-68f257ed0651)
-![Slider](https://github.com/user-attachments/assets/211aa56d-34ed-4fbc-8f4a-cccc2fa99f8b)
-![Home screen](https://github.com/user-attachments/assets/269b7df1-f7db-44b0-93d6-045836aa9acd)
-![Logout](https://github.com/user-attachments/assets/cb20e883-56f2-4ad6-867d-2d799d55d82a)
-![Login screen](https://github.com/user-attachments/assets/ea66ca12-e0d4-4fbf-a5db-e4d40fc61b7a)
-![Signup Screen](https://github.com/user-attachments/assets/195d29a1-e09f-4123-891c-3fe5145d3209)
+This project is a starting point for a Flutter application.!
 
 
 A few resources to get you started if this is your first Flutter project:
@@ -20,3 +15,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+[Home screen](https://github.com/user-attachments/assets/d06c27d0-ef14-4384-ba2d-fab7879b7432)
+![Logout](https://github.com/user-attachments/assets/deac6e69-8c12-4932-bf0c-8801eaee905a)
+![Login screen](https://github.com/user-attachments/assets/966e25b9-95b6-40e1-a46b-252b41075372)
+![Signup Screen](https://github.com/user-attachments/assets/8b5d5795-4c0f-449f-bcae-ec46ee21af12)
+![Forget Password screen](https://github.com/user-attachments/assets/9072b67e-109c-4c65-9819-0ceccc569c78)
+![Slider](https://github.com/user-attachments/assets/49a8032b-4af3-4b9f-93a0-0e59f0628afe)
