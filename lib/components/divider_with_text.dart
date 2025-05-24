@@ -8,8 +8,8 @@ class DividerWithText extends StatelessWidget {
   const DividerWithText({
     super.key,
     required this.text,
-    this.textColor = Colors.black54,
-    this.dividerColor = Colors.black12,
+    this.textColor = Colors.red,
+    this.dividerColor = Colors.redAccent,
   });
 
   @override

@@ -5,7 +5,7 @@ import 'package:library_management/modals/user_model.dart';
 class ApiService {
   // Update this with your IP address when testing on a real device
   // For emulator, use 10.0.2.2 instead of localhost
-  static const String baseUrl = 'http://192.168.155.55/library_api';
+  static const String baseUrl = 'http://192.168.54.7/library_api';
 
   // Register a new user
   static Future<User> register(
